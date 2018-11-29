@@ -9,7 +9,7 @@
 ### 1. リポジトリをクローン
 ```
 $ git clone https://github.com/nharu1san/MLN_201812.git
-$ cd MLN201812
+$ cd MLN_201812
 ```
 
 ### 2. Dockerコンテナ起動
