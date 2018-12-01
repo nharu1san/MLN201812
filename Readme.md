@@ -24,6 +24,12 @@ $ cd MLN_201812
 $ sh launch.sh
 ```
 
+#### ※バッチファイルでうまくいかない場合
+```
+$ docker run -it -p 8888:8888 -p 6006:6006 nharu13/mln201812 jupyter-notebook
+```
+でjupyter notebookを起動後、手動でリポジトリ内のファイルをアップロードしてください
+
 ##### Play with Docker
 [https://labs.play-with-docker.com](https://labs.play-with-docker.com)
 - 4時間利用可能なDocker環境
